@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Aydyn\source\repos\Fntastic_test\Fntastic_test\Source.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Aydyn\source\repos\Fntastic_test\Fntastic_test\Source.cpp(8,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Fntastic_test.vcxproj -> C:\Users\Aydyn\source\repos\Fntastic_test\x64\Debug\Fntastic_test.exe
